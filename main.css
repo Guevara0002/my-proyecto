@@ -1,0 +1,61 @@
+body {
+    background: whitesmoke
+  }
+  h1{
+    color:black;
+    margin-left: 500px;
+  }
+  
+  h2 {
+    width: 15%;
+   margin-left: 250px;
+   padding: 5px;}
+  
+  
+  p {
+    color:white
+   margin-left: 150px;
+   padding: 5px;
+  }
+  
+  img {
+    width: 250px;
+    float: left;
+    margin: 10px;
+    border-radius: 35px;
+  }
+  
+  .objetivos{
+    border: solid 5px;
+    border-color: black;
+    border-radius: 15px;
+   color:yellow;
+    font-family:serif;
+   background-color: rgb(128, 128, 128);
+  }
+  .publicidad{
+    border: solid 5px;
+    border-color:black;
+    border-radius: 10px;
+    color: purple;
+    font-family:serif;
+   background-color:aquamarine;
+  }
+  
+  .marketing{
+    border: solid 5px;
+    border-color:black;
+    border-radius: 10px;
+    color: purple;
+    font-family:serif;
+   background-color: pink;
+  }
+  .seguridad{
+    border: solid 5px;
+    border-color:black;
+    border-radius: 10px;
+    color: WHITE;
+    font-family:serif;
+   background-color: BROWN;
+  }
+  
